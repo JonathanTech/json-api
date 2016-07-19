@@ -35,6 +35,7 @@ assembled to vet them.
 * [redux-json-api](https://github.com/dixieio/redux-json-api) A library which integrated JSON APIs with Redux store
 * [devour-client](https://github.com/twg/devour) A lightweight, framework agnostic, highly flexible JSON API client
 * [ts-angular-jsonapi](https://github.com/reyesoft/ts-angular-jsonapi) A JSON API library developed for AngularJS in Typescript
+* [json-api-tools](https://github.com/bypasslane/JsonApiTools) A simplified way of flattening json-api objects into an easier to use javascript object. Also uses the same flattened format to expand back into valid json-api objects. WIP - currently requires underscore and angularjs, but author intends on removing those dependencies.  
 
 ### <a href="#client-libraries-ios" id="client-libraries-ios" class="headerlink"></a> iOS
 
